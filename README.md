@@ -1,4 +1,4 @@
-# Immigration-Reforms-SenticNet-Computing-Analysis
+# Immigration Reforms SenticNet Computing Analysis
 
 ## Overview
 This project conducts a comprehensive sentiment analysis on the topic of immigration reforms, utilizing tweets to understand public sentiment. Using advanced Natural Language Processing (NLP) techniques, this research aimed to discern the overall sentiment towards immigration policies, highlighting the division in public opinion across different geographies.
